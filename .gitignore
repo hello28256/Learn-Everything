@@ -67,3 +67,6 @@ htmlcov/
 *.bak
 *.tmp
 .cache/
+
+# MCP Config (contains secrets)
+.mcp.json
